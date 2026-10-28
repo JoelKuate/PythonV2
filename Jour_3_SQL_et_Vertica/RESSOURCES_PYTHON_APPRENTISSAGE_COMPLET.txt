@@ -1,0 +1,365 @@
+RESSOURCES PYTHON POUR APPRENDRE, PRATIQUER ET SE SPECIALISER
+Guide de ressources — 28 octobre 2026
+Format texte UTF-8 | Débutant → avancé | Français / Anglais
+
+IMPORTANT
+- Les liens indiquent des ressources publiques utiles, principalement officielles ou reconnues.
+- Certaines plateformes sont freemium, payantes ou nécessitent une inscription.
+- Les contenus et conditions d'accès évoluent ; vérifier les pages avant utilisation.
+- Priorité : apprendre par la pratique, plutôt que collectionner les cours.
+- Les ressources ne sont pas classées comme ayant toutes été testées manuellement.
+
+=====================================================================
+01. LES 15 LIENS A CONNAITRE EN PRIORITE
+=====================================================================
+01 | Site Python officiel [EN] — https://www.python.org/
+02 | Installer Python [EN] — https://www.python.org/downloads/
+03 | Documentation Python officielle [FR] — https://docs.python.org/fr/3/
+04 | Tutoriel Python officiel [FR] — https://docs.python.org/fr/3/tutorial/
+05 | Bibliothèque standard [FR] — https://docs.python.org/fr/3/library/
+06 | Guide débutant Python [EN] — https://wiki.python.org/python/BeginnersGuide
+07 | France-IOI : exercices progressifs [FR] — https://www.france-ioi.org/
+08 | OpenClassrooms : catalogue Python [FR] — https://openclassrooms.com/fr/search?query=python
+09 | FUN MOOC : catalogue [FR] — https://www.fun-mooc.fr/
+10 | Exercism Python : pratique [EN] — https://exercism.org/tracks/python
+11 | LearnPython : exercices interactifs [EN] — https://www.learnpython.org/
+12 | Harvard CS50 Python [EN] — https://cs50.harvard.edu/python/
+13 | Automate the Boring Stuff [EN] — https://automatetheboringstuff.com/
+14 | Real Python : tutoriels [EN, freemium] — https://realpython.com/
+15 | Python Tutor : visualiser l'exécution [EN] — https://pythontutor.com/
+
+=====================================================================
+02. INSTALLATION, EDITEURS, ENVIRONNEMENTS
+=====================================================================
+16 | VS Code — https://code.visualstudio.com/
+17 | Extension Python pour VS Code — https://marketplace.visualstudio.com/items?itemName=ms-python.python
+18 | PyCharm — https://www.jetbrains.com/pycharm/
+19 | Thonny (idéal débutants) — https://thonny.org/
+20 | Jupyter — https://jupyter.org/
+21 | Google Colab — https://colab.research.google.com/
+22 | Kaggle Notebooks — https://www.kaggle.com/code
+23 | Replit — https://replit.com/
+24 | Python venv — https://docs.python.org/3/library/venv.html
+25 | pip — https://pip.pypa.io/en/stable/
+26 | PyPI (packages) — https://pypi.org/
+27 | Guide officiel packaging — https://packaging.python.org/
+28 | uv (gestion projets) — https://docs.astral.sh/uv/
+29 | Conda — https://docs.conda.io/
+30 | Poetry — https://python-poetry.org/docs/
+
+=====================================================================
+03. COURS STRUCTURES GRATUITS OU PARTIELLEMENT GRATUITS
+=====================================================================
+31 | Python for Everybody — https://www.py4e.com/
+32 | freeCodeCamp — https://www.freecodecamp.org/learn/
+33 | Google Python Class — https://developers.google.com/edu/python
+34 | Microsoft Learn Python — https://learn.microsoft.com/en-us/training/browse/?terms=python
+35 | Kaggle Learn Python — https://www.kaggle.com/learn/python
+36 | Kaggle Pandas — https://www.kaggle.com/learn/pandas
+37 | Kaggle Intro to Machine Learning — https://www.kaggle.com/learn/intro-to-machine-learning
+38 | Kaggle Intermediate Machine Learning — https://www.kaggle.com/learn/intermediate-machine-learning
+39 | MIT OpenCourseWare Intro Python — https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+40 | University of Helsinki Python MOOC — https://programming-26.mooc.fi/ (vérifier l'édition courante)
+41 | W3Schools Python — https://www.w3schools.com/python/
+42 | Programiz Python — https://www.programiz.com/python-programming
+43 | GeeksforGeeks Python — https://www.geeksforgeeks.org/python-programming-language/
+44 | SoloLearn Python [freemium] — https://www.sololearn.com/
+45 | Codecademy Python [freemium] — https://www.codecademy.com/catalog/language/python
+46 | DataCamp Python [freemium] — https://www.datacamp.com/category/python
+47 | Coursera Python [selon cours] — https://www.coursera.org/search?query=python
+48 | edX Python [selon cours] — https://www.edx.org/learn/python
+49 | Grafikart (recherche Python, FR) — https://grafikart.fr/
+50 | Zeste de Savoir (articles FR) — https://zestedesavoir.com/
+51 | Developpez.com Python (FR) — https://python.developpez.com/
+52 | Docstring.fr (FR, exercices et cours) — https://www.docstring.fr/
+
+=====================================================================
+04. EXERCICES, QUIZ ET CHALLENGES
+=====================================================================
+53 | Exercism Python — https://exercism.org/tracks/python
+54 | HackerRank Python — https://www.hackerrank.com/domains/python
+55 | Codewars — https://www.codewars.com/
+56 | LeetCode — https://leetcode.com/problemset/
+57 | France-IOI — https://www.france-ioi.org/
+58 | Codingame — https://www.codingame.com/
+59 | Project Euler — https://projecteuler.net/
+60 | Advent of Code — https://adventofcode.com/
+61 | CheckiO Python — https://py.checkio.org/
+62 | PracticePython — https://www.practicepython.org/
+63 | Python Principles [freemium] — https://pythonprinciples.com/
+64 | Codeforces (algorithmes) — https://codeforces.com/
+65 | AtCoder (algorithmes) — https://atcoder.jp/
+66 | Rosalind (bioinformatique) — https://rosalind.info/problems/locations/
+67 | Python Koans — https://github.com/gregmalcolm/python_koans
+68 | Python Tutor — https://pythontutor.com/
+
+=====================================================================
+05. LIVRES ET DOCUMENTS CONSULTABLES EN LIGNE
+=====================================================================
+69 | Automate the Boring Stuff with Python — https://automatetheboringstuff.com/
+70 | Think Python — https://greenteapress.com/wp/think-python-2e/
+71 | A Byte of Python — https://python.swaroopch.com/
+72 | Python for Everybody, livre — https://www.py4e.com/book
+73 | Dive Into Python 3 (référence ancienne) — https://diveintopython3.net/
+74 | The Hitchhiker's Guide to Python — https://docs.python-guide.org/
+75 | Full Stack Python — https://www.fullstackpython.com/
+76 | Fluent Python (éditeur ; payant) — https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
+77 | Effective Python (éditeur ; payant) — https://effectivepython.com/
+78 | Python Cookbook (éditeur ; payant) — https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/
+
+=====================================================================
+06. NOTIONS DU LANGAGE : DOCUMENTATIONS A ETUDIER
+=====================================================================
+79 | Types intégrés — https://docs.python.org/fr/3/library/stdtypes.html
+80 | Structures de données — https://docs.python.org/fr/3/tutorial/datastructures.html
+81 | Conditions et boucles — https://docs.python.org/fr/3/tutorial/controlflow.html
+82 | Fonctions — https://docs.python.org/fr/3/tutorial/controlflow.html#defining-functions
+83 | Fichiers — https://docs.python.org/fr/3/tutorial/inputoutput.html
+84 | Exceptions — https://docs.python.org/fr/3/tutorial/errors.html
+85 | Classes et objets — https://docs.python.org/fr/3/tutorial/classes.html
+86 | Modules — https://docs.python.org/fr/3/tutorial/modules.html
+87 | pathlib — https://docs.python.org/fr/3/library/pathlib.html
+88 | csv — https://docs.python.org/fr/3/library/csv.html
+89 | json — https://docs.python.org/fr/3/library/json.html
+90 | datetime — https://docs.python.org/fr/3/library/datetime.html
+91 | itertools — https://docs.python.org/fr/3/library/itertools.html
+92 | collections — https://docs.python.org/fr/3/library/collections.html
+93 | re : expressions régulières — https://docs.python.org/fr/3/library/re.html
+94 | typing — https://docs.python.org/fr/3/library/typing.html
+95 | asyncio — https://docs.python.org/fr/3/library/asyncio.html
+96 | multiprocessing — https://docs.python.org/fr/3/library/multiprocessing.html
+97 | sqlite3 — https://docs.python.org/fr/3/library/sqlite3.html
+98 | unittest — https://docs.python.org/fr/3/library/unittest.html
+
+=====================================================================
+07. DATA ANALYSIS, STATISTIQUES, VISUALISATION
+=====================================================================
+99 | NumPy guide d'apprentissage — https://numpy.org/learn/
+100 | NumPy documentation — https://numpy.org/doc/stable/
+101 | pandas premiers pas — https://pandas.pydata.org/docs/getting_started/index.html
+102 | pandas documentation — https://pandas.pydata.org/docs/
+103 | Matplotlib tutoriels — https://matplotlib.org/stable/tutorials/index.html
+104 | Seaborn — https://seaborn.pydata.org/tutorial.html
+105 | Plotly Python — https://plotly.com/python/
+106 | SciPy — https://docs.scipy.org/doc/scipy/
+107 | Statsmodels — https://www.statsmodels.org/stable/index.html
+108 | Polars — https://docs.pola.rs/
+109 | DuckDB Python — https://duckdb.org/docs/stable/clients/python/overview
+110 | Jupyter notebooks — https://docs.jupyter.org/en/latest/
+111 | OpenML datasets — https://www.openml.org/
+112 | UCI datasets — https://archive.ics.uci.edu/
+113 | Kaggle datasets — https://www.kaggle.com/datasets
+114 | data.gov datasets — https://data.gov/
+115 | Eurostat — https://ec.europa.eu/eurostat/
+
+=====================================================================
+08. MACHINE LEARNING, IA ET DEEP LEARNING
+=====================================================================
+116 | scikit-learn guides — https://scikit-learn.org/stable/user_guide.html
+117 | scikit-learn exemples — https://scikit-learn.org/stable/auto_examples/index.html
+118 | PyTorch tutoriels — https://docs.pytorch.org/tutorials/
+119 | TensorFlow tutoriels — https://www.tensorflow.org/tutorials
+120 | Keras guides — https://keras.io/guides/
+121 | Hugging Face Learn — https://huggingface.co/learn
+122 | Hugging Face Transformers — https://huggingface.co/docs/transformers/index
+123 | Hugging Face Datasets — https://huggingface.co/docs/datasets/index
+124 | fast.ai — https://course.fast.ai/
+125 | Google Machine Learning Crash Course — https://developers.google.com/machine-learning/crash-course
+126 | Made With ML — https://madewithml.com/
+127 | MLflow — https://mlflow.org/docs/latest/index.html
+128 | Optuna — https://optuna.readthedocs.io/en/stable/
+129 | PyTorch Lightning — https://lightning.ai/docs/pytorch/stable/
+130 | Weights & Biases — https://docs.wandb.ai/
+131 | LangChain Python — https://python.langchain.com/docs/introduction/
+132 | LlamaIndex Python — https://docs.llamaindex.ai/
+133 | Haystack — https://docs.haystack.deepset.ai/docs/intro
+134 | OpenAI API documentation — https://platform.openai.com/docs/
+135 | Anthropic developer documentation — https://docs.anthropic.com/
+
+=====================================================================
+09. AUTOMATISATION, FICHIERS, EXCEL, SCRAPING
+=====================================================================
+136 | requests — https://requests.readthedocs.io/en/latest/
+137 | Beautiful Soup — https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+138 | Scrapy — https://docs.scrapy.org/en/latest/
+139 | Playwright Python — https://playwright.dev/python/
+140 | Selenium Python — https://www.selenium.dev/documentation/webdriver/
+141 | openpyxl (Excel) — https://openpyxl.readthedocs.io/en/stable/
+142 | XlsxWriter — https://xlsxwriter.readthedocs.io/
+143 | python-docx — https://python-docx.readthedocs.io/en/latest/
+144 | pypdf — https://pypdf.readthedocs.io/en/stable/
+145 | Pillow images — https://pillow.readthedocs.io/en/stable/
+146 | APScheduler — https://apscheduler.readthedocs.io/
+147 | PyAutoGUI — https://pyautogui.readthedocs.io/en/latest/
+148 | Rich terminal — https://rich.readthedocs.io/en/stable/
+149 | Typer CLI — https://typer.tiangolo.com/
+150 | Click CLI — https://click.palletsprojects.com/
+
+=====================================================================
+10. WEB, API, BASES DE DONNEES
+=====================================================================
+151 | FastAPI — https://fastapi.tiangolo.com/
+152 | Django — https://docs.djangoproject.com/en/stable/
+153 | Flask — https://flask.palletsprojects.com/
+154 | SQLAlchemy — https://docs.sqlalchemy.org/en/20/
+155 | psycopg PostgreSQL — https://www.psycopg.org/psycopg3/docs/
+156 | Pydantic — https://docs.pydantic.dev/latest/
+157 | httpx — https://www.python-httpx.org/
+158 | Streamlit — https://docs.streamlit.io/
+159 | Gradio — https://www.gradio.app/guides
+160 | Reflex — https://reflex.dev/docs/getting-started/introduction/
+
+=====================================================================
+11. TESTS, QUALITE, SECURITE, PERFORMANCE, DEVOPS
+=====================================================================
+161 | pytest — https://docs.pytest.org/en/stable/
+162 | Hypothesis — https://hypothesis.readthedocs.io/en/latest/
+163 | Ruff — https://docs.astral.sh/ruff/
+164 | Black — https://black.readthedocs.io/en/stable/
+165 | mypy — https://mypy.readthedocs.io/en/stable/
+166 | pyright — https://github.com/microsoft/pyright
+167 | Coverage.py — https://coverage.readthedocs.io/
+168 | Bandit — https://bandit.readthedocs.io/en/latest/
+169 | pip-audit — https://github.com/pypa/pip-audit
+170 | pre-commit — https://pre-commit.com/
+171 | Python profiling — https://docs.python.org/3/library/profile.html
+172 | timeit — https://docs.python.org/3/library/timeit.html
+173 | Git — https://git-scm.com/doc
+174 | GitHub Skills — https://skills.github.com/
+175 | Docker : guide Python — https://docs.docker.com/language/python/
+176 | GitHub Actions Python — https://docs.github.com/en/actions/use-cases-and-examples/building-and-testing/building-and-testing-python
+
+=====================================================================
+12. PYTHON EN BANQUE, FINANCE, RISQUE ET COMPTABILITE
+=====================================================================
+177 | Python decimal : exactitude monétaire — https://docs.python.org/fr/3/library/decimal.html
+178 | pandas pour séries financières — https://pandas.pydata.org/docs/
+179 | NumPy finance mathématique — https://numpy.org/doc/stable/
+180 | QuantLib Python bindings — https://www.quantlib.org/
+181 | PyPortfolioOpt (portefeuilles) — https://pyportfolioopt.readthedocs.io/en/latest/
+182 | vectorbt — https://vectorbt.dev/
+183 | Backtrader (backtesting) — https://www.backtrader.com/docu/
+184 | statsmodels séries temporelles — https://www.statsmodels.org/stable/tsa.html
+185 | BIS statistiques bancaires — https://www.bis.org/statistics/
+186 | ECB Data Portal — https://data.ecb.europa.eu/
+187 | Banque de France données — https://webstat.banque-france.fr/
+188 | Banque nationale de Belgique — https://www.nbb.be/
+189 | FRED données économiques — https://fred.stlouisfed.org/
+190 | Open Banking Berlin Group — https://www.berlin-group.org/
+
+Exercices banque/finance à réaliser soi-même :
+- Lire un fichier CSV contenant comptes, opérations et montants.
+- Calculer le solde de chaque compte ; traiter les valeurs manquantes.
+- Repérer les transactions atypiques par règles explicites.
+- Calculer intérêts simples et composés avec Decimal.
+- Simuler des remboursements de prêts et échéanciers.
+- Produire un tableau Excel de contrôle et un rapport de synthèse.
+- Créer une API FastAPI fictive de consultation des transactions.
+- Écrire des tests de non-régression sur des données synthétiques.
+ATTENTION : ne pas utiliser de données bancaires personnelles réelles dans des outils publics.
+
+=====================================================================
+13. VIDEOS, COMMUNAUTES, QUESTIONS ET ACTUALITE
+=====================================================================
+191 | freeCodeCamp YouTube — https://www.youtube.com/@freecodecamp
+192 | Corey Schafer YouTube — https://www.youtube.com/@coreyms
+193 | ArjanCodes YouTube — https://www.youtube.com/@ArjanCodes
+194 | sentdex YouTube — https://www.youtube.com/@sentdex
+195 | Python Software Foundation YouTube — https://www.youtube.com/@ThePSF
+196 | Stack Overflow Python — https://stackoverflow.com/questions/tagged/python
+197 | r/learnpython — https://www.reddit.com/r/learnpython/
+198 | Python Discourse — https://discuss.python.org/
+199 | Python Discord — https://pythondiscord.com/
+200 | Python Weekly — https://www.pythonweekly.com/
+201 | Python PEPs — https://peps.python.org/
+202 | Awesome Python — https://github.com/vinta/awesome-python
+203 | Awesome Python Books — https://github.com/Junnplus/awesome-python-books
+204 | GitHub Python trending — https://github.com/trending/python
+205 | Real Python podcast — https://realpython.com/podcasts/rpp/
+
+=====================================================================
+14. PARCOURS PROGRESSIF RECOMMANDE : 12 SEMAINES
+=====================================================================
+SEM. 01 | Installer Python et VS Code ; variables ; print ; input.
+SEM. 02 | Conditions, boucles for/while, range, enumerate.
+SEM. 03 | Listes, tuples, dictionnaires, ensembles, chaînes.
+SEM. 04 | Fonctions, imports, exceptions, fichiers CSV/JSON.
+SEM. 05 | POO : classes, méthodes ; dataclasses ; typing.
+SEM. 06 | Environnements, pip/uv, Git, pytest, Ruff.
+SEM. 07 | NumPy : tableaux, calcul vectorisé et statistiques.
+SEM. 08 | pandas : importer, nettoyer, joindre, grouper des données.
+SEM. 09 | Matplotlib : visualiser et rendre un rapport exploitable.
+SEM. 10 | requests, automatisation de fichiers, API simples.
+SEM. 11 | Projet métier : analyse de transactions fictives.
+SEM. 12 | Tests, documentation README et publication sur GitHub.
+
+Routine quotidienne conseillée : 15 min théorie, 35 min code,
+20 min exercices sans regarder la correction, 10 min révision.
+
+=====================================================================
+15. PROJETS PAR NIVEAU
+=====================================================================
+DEBUTANT
+1. Calculatrice interactive avec validation des saisies.
+2. Gestionnaire de liste de courses avec ajout/suppression.
+3. Simulateur d'épargne et d'intérêts composés.
+4. Convertisseur de dates et formats de fichiers.
+5. Analyseur de texte : mots, caractères, fréquences.
+
+INTERMEDIAIRE
+6. Nettoyage d'un fichier CSV de transactions fictives.
+7. Comparateur de deux fichiers Excel et rapport des écarts.
+8. Tableau de bord ventes avec pandas + Matplotlib.
+9. Gestionnaire de dépenses personnelles avec SQLite.
+10. Consommateur d'API avec journalisation et tests.
+
+AVANCE
+11. API FastAPI avec PostgreSQL et authentification.
+12. Pipeline ETL testé et automatisé.
+13. Détection d'anomalies sur données synthétiques.
+14. Recherche sémantique de documents non sensibles.
+15. Application Streamlit avec explicabilité d'un modèle.
+
+=====================================================================
+16. AIDE-MEMOIRE DES COMMANDES ESSENTIELLES
+=====================================================================
+python --version
+python -m venv .venv
+# Windows PowerShell : .venv\Scripts\Activate.ps1
+# macOS/Linux : source .venv/bin/activate
+python -m pip install --upgrade pip
+python -m pip install requests pandas numpy matplotlib pytest
+python mon_script.py
+python -m pytest
+python -m pip freeze > requirements.txt
+python -m pip install -r requirements.txt
+
+# Exemples Python à savoir écrire :
+nombres = [10, 20, 30]
+for indice, nombre in enumerate(nombres):
+    print(indice, nombre)
+
+prix = {'article': 12.5, 'quantite': 3}
+total = prix['article'] * prix['quantite']
+print(total)
+
+from decimal import Decimal
+montant = Decimal('10.20') + Decimal('0.30')
+print(montant)
+
+=====================================================================
+17. CONSEILS POUR CHOISIR LES RESSOURCES
+=====================================================================
+- Grand débutant : tutoriel officiel + France-IOI + Python Tutor.
+- Débutant qui souhaite un cours complet : CS50P + exercices Exercism.
+- Apprentissage en français : documentation française + Docstring + France-IOI.
+- Professionnel en entreprise : Automate the Boring Stuff + pandas + pytest.
+- Data analyst : NumPy + pandas + Matplotlib + Kaggle.
+- Data scientist : statistiques + scikit-learn + projets sur données ouvertes.
+- Ingénieur IA : PyTorch + Hugging Face + évaluation des modèles.
+- Développeur API : FastAPI + Pydantic + pytest + SQLAlchemy.
+- Finance : Decimal + pandas + statsmodels ; données synthétiques d'abord.
+- Ingénieur logiciel : typage, tests, packaging, sécurité, CI/CD.
+
+FIN DU REPERTOIRE — 205 ENTREES NUMEROTEES.
+Sélection éditoriale de ressources, non inventaire exhaustif du Web.
